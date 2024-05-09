@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Sweettian0526.github.io/sweettian/sitemap.xml
